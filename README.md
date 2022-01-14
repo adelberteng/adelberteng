@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Albert!
+
+### Contact
+<p align="left">
+<a href="https://albertteng.xyz" target="blank"><img align="center" src="img/personal_website_icon.png" alt="albert-linkedin" height="80" width="80" /></a>
+<a href="https://www.linkedin.com/in/albert-t-b40012b0/" target="blank"><img align="center" src="img/linkedIn_icon.png" alt="albert-linkedin" height="80" width="80" /></a>
+<a href="https://www.linkedin.com/in/albert-t-b40012b0/" target="blank"><img align="center" src="img/emai_icon.png" alt="albert-linkedin" height="80" width="80" /></a>
+</p>
+
 
 <!--
 **adelberteng/adelberteng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
