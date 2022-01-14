@@ -2,9 +2,9 @@
 
 ### Contact
 <p align="left">
-<a href="https://albertteng.xyz" target="blank"><img align="center" src="img/personal_website_icon.png" alt="albert-linkedin" height="80" width="80" /></a>
+<a href="https://albertteng.xyz" target="blank"><img align="center" src="img/personal_website_icon.png" alt="albert-webdite" height="80" width="80" /></a>
 <a href="https://www.linkedin.com/in/albert-t-b40012b0/" target="blank"><img align="center" src="img/linkedIn_icon.png" alt="albert-linkedin" height="80" width="80" /></a>
-<a href="https://www.linkedin.com/in/albert-t-b40012b0/" target="blank"><img align="center" src="img/emai_icon.png" alt="albert-linkedin" height="80" width="80" /></a>
+<a href="mailto:adelberteng@gmail.com" target="blank"><img align="center" src="img/emai_icon.png" alt="albert-email" height="80" width="80" /></a>
 </p>
 
 
