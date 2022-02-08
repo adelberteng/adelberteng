@@ -1,6 +1,12 @@
-### Hi there 👋, I am Albert!
+## Hi there 👋, I am Albert!  
 
-### Contact
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adelberteng)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelberteng&layout=compact)
+
+
+## Contact
 <p align="left">
 <a href="https://albertteng.xyz" target="_blank"><img align="center" src="img/personal_website_icon.png" alt="albert-webdite" height="80" width="80" /></a>
 <a href="https://www.linkedin.com/in/albert-t-b40012b0/" target="_blank"><img align="center" src="img/linkedIn_icon.png" alt="albert-linkedin" height="80" width="80" /></a>
