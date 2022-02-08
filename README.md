@@ -2,7 +2,7 @@
 
 
 <center>
-    <img src="https://github-readme-stats.vercel.app/api?username=adelberteng" width="100%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelberteng&layout=compact" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=adelberteng" width="80%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelberteng&layout=compact" width="80%"/>
 </center>  
 
 ## Contact 
