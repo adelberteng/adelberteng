@@ -1,12 +1,11 @@
 ## Hi there 👋, I am Albert!  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adelberteng)
+<center>
+    <img src="https://github-readme-stats.vercel.app/api?username=adelberteng" width="100%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelberteng&layout=compact" width="100%"/>
+</center>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelberteng&layout=compact)
-
-
-## Contact
+## Contact 
 <p align="left">
 <a href="https://albertteng.xyz" target="_blank"><img align="center" src="img/personal_website_icon.png" alt="albert-webdite" height="80" width="80" /></a>
 <a href="https://www.linkedin.com/in/albert-t-b40012b0/" target="_blank"><img align="center" src="img/linkedIn_icon.png" alt="albert-linkedin" height="80" width="80" /></a>
